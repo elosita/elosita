@@ -1,4 +1,4 @@
-## Hi, I'm Elosita 👋
+## Oi, me chamo Elosita! 👋
 
 <!--
 **elosita/elosita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
